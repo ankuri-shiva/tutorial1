@@ -1,0 +1,6 @@
+factory function
+constructor function
+arrow function
+function defination
+function declaration
+
